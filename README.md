@@ -7,6 +7,7 @@ The mission is to build a linear algebra framework in pure Python (without exter
 - Numerical stability: pivoted in LU, Householder in QR
 
 (Robust implementations, with fallback in degenerate cases (zero columns, etc.).)
+
 *Modularity*: each part (core, LU, QR) can be used separately or integrated into demos.
 
 ### Purpose: (no educational)
